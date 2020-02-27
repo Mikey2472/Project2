@@ -230,11 +230,14 @@ footer {
         font-size: 1.2em;
     }
 
-
     .main-content section {
         /*Make 3 columns*/
         width: 33.3%;
         padding: 2%;
+    }
+
+    #awards {
+        margin-left: 33.3%;
     }
 
     #contact {
