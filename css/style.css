@@ -172,6 +172,7 @@ footer {
     .footer-nav {
         display: flex;
         width: 50%;
+        font-size: 0.8em;
 
     }
 
